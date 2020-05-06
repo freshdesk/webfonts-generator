@@ -29,7 +29,7 @@
     "handlebars": "^4.0.5",
     "mkdirp": "^0.5.0",
     "q": "^1.1.2",
-    "svg2ttf": "https://github.com/freshdesk/svg2ttf.git",
+    "svg2ttf": "git+https://github.com/freshdesk/svg2ttf.git",
     "svgicons2svgfont": "^5.0.0",
     "ttf2eot": "^2.0.0",
     "ttf2woff": "^2.0.1",
